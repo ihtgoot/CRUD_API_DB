@@ -277,36 +277,9 @@ This project demonstrates:
 - [ ] Book cover image upload
 - [ ] Advanced filtering and sorting
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@ihtgoot](https://github.com/ihtgoot)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
 - [Gorilla Mux](https://github.com/gorilla/mux) - Powerful HTTP router
 - [GORM](https://gorm.io/) - Fantastic ORM library
 - [rs/cors](https://github.com/rs/cors) - CORS middleware
-
----
-
-⭐ **Star this repo if you found it helpful!**
-
-📝 **Questions or Issues?** Open an issue on GitHub
-
-🎓 **Learning Go?** This is a great starter project for understanding web development in Go!
