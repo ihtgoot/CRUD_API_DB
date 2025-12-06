@@ -7,8 +7,6 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with Go and v
 - **Complete CRUD Operations**: Add, view, update, and delete books
 - **RESTful API**: Well-structured API endpoints following REST principles
 - **Search by ID**: Find specific books by their unique identifier
-- **Dark Mode UI**: Minimalist black and white interface
-- **Responsive Design**: Works on desktop and mobile devices
 - **CORS Enabled**: Frontend and backend can run on different ports
 - **Database Persistence**: All data stored in MySQL using GORM ORM
 
@@ -178,21 +176,6 @@ curl -X PUT http://localhost:9010/api/book/1 \
 curl -X DELETE http://localhost:9010/api/book/1
 ```
 
-## 🎨 Frontend Features
-
-### Navigation Tabs
-1. **All Books**: View complete list of all books
-2. **Search Book by ID**: Find specific book by entering its ID
-3. **Add Book**: Create new book entry
-4. **Update Book**: Modify existing book details
-5. **Delete Book**: Remove book from database
-
-### UI Highlights
-- **Dark Mode**: Black background with white text
-- **Tab Navigation**: Clean separation of CRUD operations
-- **Form Validation**: Required fields and input validation
-- **Alert Messages**: Success/error notifications
-- **Responsive Grid**: Books displayed in responsive card layout
 
 ## 🗄️ Database Schema
 
